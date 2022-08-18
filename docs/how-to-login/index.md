@@ -1,4 +1,4 @@
-# Qwiklabs ログイン手順
+# Cloud Skills Boost (Qwiklabs) のログイン手順
 
 1. Google Chrome のシークレットウィンドウで [https://www.cloudskillsboost.google/users/sign_in?locale=ja](https://www.cloudskillsboost.google/users/sign_in?locale=ja) にアクセスします。
 
