@@ -6,13 +6,13 @@
 
 2. My Trainocate Portal で配布されたメールアドレスとパスワードを入力し [ログイン] をクリックします。  
    
-   ![](https://lh4.googleusercontent.com/4u9BIj9hIGcfwtiviTVgSraepbfJsceVJXBGLgwTGq8Vy8kxRtCHKnPLT-f2wzTDEj1KDp3O1wdT3mrbWAtBoIjD0yBUGD2oXATzbYNRShMv9RbZI4vICifbPa_5G_eExPrV8kFPiCQDE-THNzRX3Q)  
+   ![img1](images/img1.png)  
       
    <br />
     
 3. 下記のような画面が表示されればログインは成功です。  
 
-   ![](https://lh3.googleusercontent.com/emI6x3VAG3UnYqRdRIFAkhcDLt2HRedhZ7JHk66aLM_dDtDegpda8c78RyxWsKdRibzEuRxEovCfjELhr4uRtErQOxvvBjLuIQfOkWdyd-iCH6Ft0bQ4GvMXFgRkLftTD_A20cCLJVS_7-EVTx-FObg)      
+   ![img2](images/img2.png)      
     
    <br />
     
